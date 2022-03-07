@@ -1,1 +1,2 @@
-"# BRACUCSE460" 
+# BRACUCSE460
+VLSI Design - Spring 2022
